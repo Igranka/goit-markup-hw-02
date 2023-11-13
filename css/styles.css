@@ -130,6 +130,7 @@ button:focus {
     line-height: 1.11;
     letter-spacing: 0.72px;
     text-align: center;
+    text-transform: capitalize;
 }
 
 .team-member {
@@ -154,6 +155,7 @@ button:focus {
     line-height: 1.11;
     letter-spacing: 0.72px;
     text-align: center;
+    text-transform: capitalize;
 }
 
 .portfolio-item {
